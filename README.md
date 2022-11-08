@@ -4,7 +4,7 @@
 
 ![S2](https://user-images.githubusercontent.com/115702070/200449542-40fe1cfe-9874-4f1f-9531-0a4269081e6e.PNG)
 
-![S3](https://user-images.githubusercontent.com/115702070/200449549-296233a7-81ab-423b-8b26-![S6](https://user-images.githubusercontent.com/115702070/200449639-180fd25e-7f41-4364-9510-cf8250287861.PNG)
+![S3](https://user-images.githubusercontent.com/115702070/200450192-4792b939-1602-4a0c-8f96-5a5ef332196f.PNG)
 
 ![S4](https://user-images.githubusercontent.com/115702070/200449604-7cb627d4-17d5-4a9c-85ad-d85ee0e49ca9.PNG)
 
