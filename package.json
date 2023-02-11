@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/sivapradeep-2403/CRYPTO_TRACKER.git",
+  //"homepage": "https://github.com/sivapradeep-2403/CRYPTO_TRACKER.git",
   "name": "bitcoinapp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
